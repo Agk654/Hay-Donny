@@ -10,3 +10,5 @@ open settings>>accessibility>>
 vocal shortcuts
 open vocal shortcuts and press add action.
 scroll down to siri and follow the steps.
+![image]
+()
