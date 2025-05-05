@@ -8,3 +8,4 @@ notice : only support iPhone with ios18 or higer devices.
 # STEPS : 
 open settings>>accessibility>>
 vocal shortcuts
+open vocal shortcuts and press add action.
