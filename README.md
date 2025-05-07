@@ -14,5 +14,5 @@ Then download [this](https://www.icloud.com/shortcuts/7507b4ff49114674b8f28c303e
 
 # FAQ
 <details>
-    <summary>If you can't download the file </summary>
+    <summary>If you can't download the file to your shortcuts app</summary>
 </details>
