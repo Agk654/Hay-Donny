@@ -15,4 +15,6 @@ Then download [this](https://www.icloud.com/shortcuts/7507b4ff49114674b8f28c303e
 # FAQ
 <details>
     <summary>If you can't download the file to your shortcuts app</summary>
+    
+1.<img src="https://github.com/Agk654/Hay-Donny/blob/24fb8e144756595eac025f7489eca8103af1d72b/remind%20me%20to%20pick%20up%20my%20kids%20from%20school..png" width="300"> 
 </details>
