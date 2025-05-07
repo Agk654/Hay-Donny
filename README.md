@@ -13,3 +13,6 @@ open ```settings>>accessibility>>vocal shortcuts>>add action>>siri```
 Then download [this](https://www.icloud.com/shortcuts/7507b4ff49114674b8f28c303e0565a7) ,[this](https://www.icloud.com/shortcuts/7ea5a508b6ef4b60965b6befe1a036db) ,[this](https://www.icloud.com/shortcuts/1b2602783f46429ca040c5b99d75217c) ,and [this](https://www.icloud.com/shortcuts/1b2602783f46429ca040c5b99d75217c) to your shortcuts app.
 
 # FAQ
+<details>
+    <summary>If you can't download the file </summary>
+</details>
