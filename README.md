@@ -18,4 +18,5 @@ Then download [this](https://www.icloud.com/shortcuts/7507b4ff49114674b8f28c303e
     
 <img src="https://github.com/Agk654/Hay-Donny/blob/24fb8e144756595eac025f7489eca8103af1d72b/remind%20me%20to%20pick%20up%20my%20kids%20from%20school..png" width="300"> 
 
+<img scr="https://github.com/Agk654/Hay-Donny/blob/4d4411e3a24e5e6ff29b1f962eca72474bac812a/what%20is%20the%20weather%20today.jpg" width="300">
 </details>
