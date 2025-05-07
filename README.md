@@ -6,8 +6,7 @@ Instead of Siri we're introducing an new AI : "Donny" !!
 notice : only support iPhone with ios18 or higer devices.
 
 # STEPS : 
-open settings>>accessibility>>
-vocal shortcuts
+open ```settings>>accessibility>>vocal shortcuts```
 open vocal shortcuts and press add action.
 scroll down to siri and follow the steps.
 <img src="https://github.com/Agk654/Hay-Donny/blob/28a0f9ff08c1b9596d86f6ecc6d9f734cc061f98/Vocal%20shortcuts.jpeg" width="300">
